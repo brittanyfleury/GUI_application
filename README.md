@@ -21,10 +21,13 @@ A gym is planning on expanding its business. They want to increase their marketi
 - Used a csv file with over 500 rows of gym member's data
 - Use tkinter to set up GUI
 - Added buttons, labels, dropdown menu, listbox and entries
-- Functions:
-    ..* Joinmonth() function​:
--Creates a dataframe out of input​
--Found counts of each month​
--Got values and keys directly from the dataframe​
--Created bar plot and saved as jpg​
-- PURPOSE: to calculate and visualize the top months that people join
+- Added functions to that would filter out the dataset, calculate total members, display age ranges, etc.
+
+
+## Functions
+-Joinmonth() function​
+    - Creates a dataframe out of input
+    - Found counts of each month​
+    - Got values and keys directly from the dataframe​
+    - Created bar plot and saved as jpg​
+    - PURPOSE: to calculate and visualize the top months that people join
