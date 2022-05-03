@@ -22,9 +22,9 @@ A gym is planning on expanding its business. They want to increase their marketi
 - Use tkinter to set up GUI
 - Added buttons, labels, dropdown menu, listbox and entries
 - Functions:
-    -Joinmonth() function​:
-        -Creates a dataframe out of input​
-        -Found counts of each month​
-        -Got values and keys directly from the dataframe​
-        -Created bar plot and saved as jpg​
-        - PURPOSE: to calculate and visualize the top months that people join
+--Joinmonth() function​:
+-Creates a dataframe out of input​
+-Found counts of each month​
+-Got values and keys directly from the dataframe​
+-Created bar plot and saved as jpg​
+- PURPOSE: to calculate and visualize the top months that people join
