@@ -9,7 +9,7 @@ Gym Member Application made with Python in Computational Thinking.
 * [Project Status](#project-status)
 
 ## General Information
-The purpose of this project was to create a GUI application to inform a gym what areas and age ranges they can expand to. We used excel data to 
+The purpose of this project was to create a GUI application to inform a gym what areas and age ranges they can expand to. We used python to filter and display a large data set.
 
 
 

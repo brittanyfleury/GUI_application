@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Brittany Fleury and Lauren Jamison
+Brittany Fleury
 """
 import tkinter as tk
 import pandas as pd
