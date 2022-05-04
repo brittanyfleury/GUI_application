@@ -84,3 +84,5 @@ A gym is planning on expanding its business. They want to increase their marketi
 Project is: complete
 
 
+## What I Learned
+I learned how to use Python to manipulate and display data from a large csv file. I also learned how to make a fully-functional GUI for my application.
